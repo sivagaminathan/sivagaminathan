@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Siva 👋
 
-<!--
-**sivagaminathan/sivagaminathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer based in Boston, MA — building distributed systems, microservices, and cloud-native infrastructure.
 
-Here are some ideas to get you started:
+## What I work with
+**Languages:** Go · Java · Python · TypeScript  
+**Backend:** REST APIs · gRPC · Spring Boot · Event-driven systems  
+**Infra:** Kubernetes · Docker · Terraform · AWS · GCP · Azure  
+**CI/CD:** Jenkins · GitHub Actions · Git  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've worked on
+- Healthcare SaaS platforms — EDI enrollment data pipelines, workflow validation services
+- IoT device management at scale (PTC ThingWorx) — monolith → microservices migration
+- Geo-tagged workflow systems at Verily (Google) — Go + TypeScript integration services
+- On-demand cloud infrastructure orchestration — cut compute costs $2K/month at CarGurus
+
+## Currently
+🔨 Building backend projects in Go, Python — microservices, APIs, and developer tooling  
+📖 Deepening distributed systems knowledge  
+🔍 Open to mid-level backend SWE roles  
+
+## Reach me
+📧 sivagaminathan.cs@gmail.com · 📍 Boston, MA
